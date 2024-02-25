@@ -12,6 +12,6 @@ Build in kotlin with Clean architecture + MVVM
 
 ## Screenshots
 
-![home screen](images/home.jpg)
-![add todo screen](images/add-todo.jpg)
-![edit screen](images/edit-todo.jpg)
+<img src="images/home.jpg" width="250" alt="home todo screen">
+<img src="images/add-todo.jpg" width="250" alt="add todo screen">
+<img src="images/edit-todo.jpg" width="250" alt="edit todo screen">
